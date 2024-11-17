@@ -1,7 +1,7 @@
 /*
 * Hello World Function
 */
-const hello = () => {
+const hello = (): void => {
 	console.log("Hello, World!");
 }
 
